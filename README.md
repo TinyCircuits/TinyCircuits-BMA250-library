@@ -1,6 +1,6 @@
 # BMA250 library
 
-Used for the TinyCircuits Accelerometer [BMA250 on the TinyZero](https://tinycircuits.com/collections/processors/products/tinyzero-processor?variant=21137366515796),the [Accelerometer TinyShield](https://tinycircuits.com/collections/sensors/products/accelerometer-tinyshield), and the [Accelerometer Wireling](https://tinycircuits.com/collections/wireling-sensors/products/accelerometer-wireling-bma250). 
+Used for the TinyCircuits Accelerometer **[BMA250 on the TinyZero](https://tinycircuits.com/collections/processors/products/tinyzero-processor?variant=21137366515796)**,the *[Accelerometer TinyShield](https://tinycircuits.com/collections/sensors/products/accelerometer-tinyshield)**, and the **[Accelerometer Wireling](https://tinycircuits.com/collections/wireling-sensors/products/accelerometer-wireling-bma250)**. 
 
 *Support this library by buying products from **[TinyCircuits](https://tinycircuits.com/)***
 
